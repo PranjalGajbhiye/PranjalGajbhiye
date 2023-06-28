@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pranjal_Gajbhiye, . 
+- 👋 Hi, I’m Pranjal_Gajbhiye, . 
 - 👀 I’m interested & Passionate in a data-driven world and enthusiast with a strong interest in artificial intelligence and data science,
 -  I have a keen eye for detail and Enjoy working with data to uncover valuable insights. I am constantly seeking opportunities to enhance my knowledge and skills.
 - 🌱 I'm currently pursuing PG Diploma in artificial intelligence. Throughout my PGDAI, I have worked on several projects that have allowed me to apply my skills and gain practical experience.
